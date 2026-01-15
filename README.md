@@ -56,8 +56,6 @@ All testing was performed using **SQL queries** executed directly on the databas
 
 database-Testing-Schema-Data-Integrity-Index-Validation/
 
-├── README.md
-
 ├── Documentation/
 
 │    ├── Test_Plan.md
@@ -67,7 +65,7 @@ database-Testing-Schema-Data-Integrity-Index-Validation/
 │    ├── TestCaseExecution.md
 
 │    └── Bug_Reports.md
-
+├── README.md
 ├── mySQL_EverShopDatabaseScript.sql
 
 └── mysqlEverShopdatabase.sql
