@@ -38,12 +38,32 @@
 | TC023 | Index existence        | `SHOW INDEX FROM customers;`                           | Index exists          | Required index missing        | NA           | P2       | **FAILED** |
 | TC024 | Index usage            | `EXPLAIN SELECT * FROM customers WHERE customer_id=1;` | Index used            | Index used in execution plan  | NA           | P3       | PASSED     |
 
+## Failed Test Cases Overview
+TC003 – Column count mismatch
+
+TC005 – Incorrect data type
+
+
+TC007 – NOT NULL constraint missing
+
+TC008 – Foreign key missing (schema)
+
+TC017 – Foreign key not enforced (data)
+
+TC019 – Numeric range validation missing
+
+TC020 – String length not enforced
+
+TC022 – Orphan records found
+
+
+
 ## Final Execution Summary
 | Metric                    | Count |
 | ------------------------- | ----- |
-| Total Test Cases Executed | 25    |
+| Total Test Cases Executed | 24    |
 | Passed                    | 17    |
-| Failed                    | 8     |
+| Failed                    | 7     |
 | Blocked                   | 0     |
 
 
