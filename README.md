@@ -53,18 +53,18 @@ All testing was performed using **SQL queries** executed directly on the databas
 
 ---
 ## Project Structure
+
 database-Testing-Schema-Data-Integrity-Index-Validation/
-│
 ├── README.md
-│
 ├── Documentation/
 │   ├── Test_Plan.md
 │   ├── Test_Case.md
 │   ├── TestCaseExecution.md
 │   └── Bug_Reports.md
-│
 ├── mySQL_EverShopDatabaseScript.sql
 └── mysqlEverShopdatabase.sql
+```
+
 
 
 ---
