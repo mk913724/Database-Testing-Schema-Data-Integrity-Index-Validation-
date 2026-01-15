@@ -38,25 +38,6 @@
 
 
 
-## Failed Test Cases Overview
-TC003 – Column count mismatch
-TC005 – Incorrect data type
-TC007 – NOT NULL constraint missing
-TC008 – Foreign key missing (schema)
-TC017 – Foreign key not enforced (data)
-TC019 – Numeric range validation missing
-TC020 – String length not enforced
-TC022 – Orphan records found
-
-
-
-
-## Explanation of Status Updates
-PASSED: Functionality or validation works exactly as expected.
-
-
-FAILED: Functionality or validation did not work as expected; critical issues need resolution.
-
 
 
 
@@ -81,15 +62,6 @@ Priority: Importance level of the test case (e.g., P1 = highest).
 
 
 Status: Final outcome of the test case (Passed or Failed).
-
-## Overall Execution Summary
-| **Metric**                | **Count** |
-| ------------------------- | --------- |
-| Total Test Cases Executed | 24        |
-| Passed                    | 17        |
-| Failed                    | 7         |
-| Blocked                   | 0         |
-
 
 
 
