@@ -58,14 +58,16 @@ database-Testing-Schema-Data-Integrity-Index-Validation/
 
 ├── Documentation/
 
-│    ├── Test_Plan.md
+│     ├── Test_Plan.md
 
-│    ├── Test_Case.md
+│     ├── Test_Case.md
 
-│    ├── TestCaseExecution.md
+│     ├── TestCaseExecution.md
 
-│    └── Bug_Reports.md
+│     └── Bug_Reports.md
+
 ├── README.md
+
 ├── mySQL_EverShopDatabaseScript.sql
 
 └── mysqlEverShopdatabase.sql
