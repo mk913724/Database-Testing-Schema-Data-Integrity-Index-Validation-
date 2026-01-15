@@ -47,7 +47,7 @@ TC017 – Foreign key not enforced (data)
 TC019 – Numeric range validation missing
 TC020 – String length not enforced
 TC022 – Orphan records found
-TC029 – Missing index
+
 
 
 
@@ -85,9 +85,9 @@ Status: Final outcome of the test case (Passed or Failed).
 ## Overall Execution Summary
 | **Metric**                | **Count** |
 | ------------------------- | --------- |
-| Total Test Cases Executed | 25        |
+| Total Test Cases Executed | 24        |
 | Passed                    | 17        |
-| Failed                    | 8         |
+| Failed                    | 7         |
 | Blocked                   | 0         |
 
 
